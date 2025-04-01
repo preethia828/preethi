@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **Career Growth**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-seven-mocha-64.vercel.app/](https://portfolio-seven-mocha-64.vercel.app/)
-
 - 💬 Ask me about **DSA, React JS, Node JS, Vue JS**
 
 - 📫 How to reach me **preethia231@gmail.com**
