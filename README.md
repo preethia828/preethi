@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on *CLI App*
 
-- 🌱 I’m currently learning *Gin,Go routines,DSA*
+- 🌱 I’m currently learning *Node JS,DSA*
 
-- 👯 I’m looking to collaborate on *Golang Projects*
+- 👯 I’m looking to collaborate on *React JS Projects*
 
 - 🤝 I’m looking for help with *Career Growth*
 
-- 💬 Ask me about *DSA, Golang, RestAPI, Micro Service, Clean Code, Cobra, Gin*
+- 💬 Ask me about *DSA, React JS, RestAPI, Node JS, Vue JS*
 
 - 📫 How to reach me *preethia231@gmail.com*
 
